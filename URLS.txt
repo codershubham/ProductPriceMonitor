@@ -1,0 +1,2 @@
+user_id|product_name|product_URL
+8865924123|Lenovo Tab|https://www.amazon.in/gp/product/B08BZSR4TX/ref=s9_acss_bw_cg_INelec1_2a1_w?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-9&pf_rd_r=33DCC83HSFAZ6G1ZPX0G&pf_rd_t=101&pf_rd_p=d373e1bc-4759-4b5f-a28d-e7c4ce1b8634&pf_rd_i=976419031&th=1
